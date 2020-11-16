@@ -1,1 +1,1 @@
-# Diabetics Prediction System based on Life Style
+# Diabetes Prediction System based on Life Style
